@@ -1,0 +1,24 @@
+/* ================================
+   ZÁKLADNÍ VZHLED CELÉ STRÁNKY
+   ================================ */
+
+/* Nastavení stránky */
+body {
+    margin: 0;
+    padding: 40px;
+    background-color: #111111;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+/* Hlavní nadpis */
+h1 {
+    font-size: 48px;
+    margin-bottom: 10px;
+}
+
+/* Úvodní text */
+p {
+    color: #aaaaaa;
+    font-size: 20px;
+}
